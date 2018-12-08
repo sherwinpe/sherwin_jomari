@@ -1,1 +1,4 @@
-awjeiawjeiawjiejawie
+$word = "sherwin";
+$toArray = str_split($word);
+$countArray = count($toArray);
+
